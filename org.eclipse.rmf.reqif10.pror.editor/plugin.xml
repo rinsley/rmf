@@ -197,7 +197,7 @@ Contributors:
  <extension
        point="org.eclipse.ui.perspectiveExtensions">
     <perspectiveExtension
-          targetID="*">
+          targetID="org.eclipse.rmf.pror.ProrPerspective">
        <newWizardShortcut
              id="org.eclipse.rmf.reqif10.presentation.Reqif10ModelWizardID">
        </newWizardShortcut>
